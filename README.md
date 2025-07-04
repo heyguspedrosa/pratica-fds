@@ -16,3 +16,9 @@ Este projeto é uma prática da disciplina de Fundamentos de Desenvolvimento de 
 ## Como usar 🖥️
 
 Abra o arquivo `index.html` em seu navegador para visualizar o projeto.
+
+## Acesse online 🌐
+
+Você pode acessar a página diretamente pelo GitHub Pages:
+
+[Clique aqui para acessar o projeto](https://heyguspedrosa.github.io/pratica-fds/)
