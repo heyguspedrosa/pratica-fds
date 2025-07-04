@@ -1,6 +1,6 @@
-# Prática FDS 🚀
+# Prática FDS - Minha Página Pessoal 🚀
 
-Este projeto é uma prática dos Fundamentos de Desenvolvimento de Softwares.
+Este projeto é uma prática da disciplina de Fundamentos de Desenvolvimento de Software, do curso de Engenharia de Software da Uninter.
 
 ## Objetivos 🎯
 
