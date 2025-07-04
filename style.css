@@ -1,0 +1,107 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f0f8ff; 
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px;
+      background-color: #ffffff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 12px;
+    }
+
+    
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+h3 {
+    color: #2c3e50;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+   
+p {
+    font-size: 18px;
+    text-align: center;
+}
+
+    
+ul {
+    padding-left: 20px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+ul li {
+    margin-bottom: 10px;
+    text-align: center;
+    list-style: none;
+}
+
+    
+img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+}
+
+    
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+ }
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+
+a {
+    color: #1a73e8;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #ff6600;
+    text-decoration: underline;
+}
+
+.botao-mensagem {
+  display: block;
+  margin: 20px auto;        
+  padding: 12px 24px;       
+  font-size: 16px;
+  background-color: #1a73e8; 
+  color: white;              
+  border: none;              
+  border-radius: 8px;        
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.botao-mensagem:hover {
+  background-color: #0d47a1; 
+}
